@@ -1,44 +1,49 @@
-# Stick Figure to Animation — Team 04
-A web-based application that allows users to upload an image, align an editable stick figure with it, and create animations with a scenic background.
+# Mira Motion Studio – Stick Figure to Animation
+
+# About the Project
+Mira Motion Studio is a web-based prototype developed by Team 4 for the Genzenius Communities Project.
+It explores how a simple stick-figure drawing can be used as a reference to customize a character and create an animated scene.
+
+# Problem Statement
+Build a system that understands a simple stick-figure drawing or scene and transforms it into an animated scene.
 
 # Features
-- Image Upload: Upload an image to use as a reference.
-- Stick Figure Alignment: Adjust the stick figure's joints to match the uploaded character.
-- Animation Presets: Choose from animations such as walking, running, dancing, jumping, and waving.
-- Scenic Background: Enjoy a background featuring the sun, clouds, mountains, and landscape.
-- Hide Original Image: Hide the uploaded reference image before exporting.
-- Multiple Export Formats: Export PNG images and animations in GIF, WebM, or MP4 when supported by the browser.
-- User-Friendly Interface: A modern interface designed for easy interaction.
+-  Upload stick-figure drawings.
+-  Customize character poses and positions.
+-  Multiple animation presets: Walk, Run, Dance, Wave, Jump, and Squat.
+-  Animated backgrounds with moving environmental elements.
+-  Preview animations.
+-  Export images and animations in supported formats, including PNG, GIF, WebM, and MP4.
 
 # Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- HTML Canvas API
-- Browser-based media recording and export APIs
+- GitHub
+- Vercel
 
-# How to Run
-1. Clone or download this repository.
-2. Open the project folder.
-3. Open index.html in a modern web browser.
-4. Upload an image and align the stick figure.
-5. Select an animation and preview it.
-6. Hide the original image and export your result.
+# How to Use
+1. Open the web application.
+2. Upload a stick-figure drawing.
+3. Customize the character.
+4. Select an animation preset.
+5. Preview the animated scene.
+6. Export your result in a supported format.
 
-# How It Works
--The uploaded image serves as a visual reference for positioning the editable stick figure. Users can adjust the figure's joints, preview preset animations, and export the result without displaying the uploaded reference image.
--The scenic background is retained when the original image is hidden.
+# Project Details
+- **Topic:** Stick-Figure-to-Animation
+- **Project:** Mira Motion Studio
+- **Team:** Genzenius Communities – Team 4
+- **Type:** Web-Based Prototype
+- **Status:** Developed and Deployed
 
-# Note:
-The application animates the stick figure overlay; it does not automatically transform the uploaded image itself into an animated character. Export format availability may depend on browser support.
+# Future Improvements
+- Automatic stick-figure pose recognition.
+- AI-assisted animation generation.
+- More character customization options.
+- Additional movements and backgrounds.
 
-# Project Objective
-To develop an interactive web application that demonstrates stick figure animation, image handling, canvas rendering, and media export using web technologies.
+# Conclusion
+Mira Motion Studio demonstrates an interactive approach to stick-figure-based animation by combining character customization, movement presets, and animated scenes.
 
-# Team
-Team 04
-
-# License
-This project was developed for educational purposes.
-
-**Thanks for the team GenZenius for assigning a great project for our team.**
+"Turning simple drawings into animated experiences!"
